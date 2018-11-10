@@ -18,7 +18,7 @@ defined('_JEXEC') or die;
 		@-o-viewport        { width: device-width; }
 		@viewport           { width: device-width; }
 	</style>
-	<script type="text/javascript">
+	<script>
 		//<![CDATA[
 		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
 			var msViewportStyle = document.createElement("style");
